@@ -1,2 +1,5 @@
 # Programming
-Java programming labs
+
+### Lab#1
+
+Immutable LinkedList
